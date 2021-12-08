@@ -85,7 +85,7 @@ while True:
     elif btn9.value:
         keyboard.send(Keycode.NINE)
         time.sleep(0.1)
-    else:
+    else :
         pass
 
     time.sleep(0.1)
