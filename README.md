@@ -1,5 +1,6 @@
 # **Shorty (Re-Programable Macro Board)**
 
+### you ca fetch setup guide and files📂 [here](https://sb2001nov.github.io/shorty/)
 
 ## **Components Hardware Required:**
 
