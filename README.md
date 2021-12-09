@@ -31,7 +31,7 @@ Match keycap size before purchasing, supported keycap are alphabetic caps.
 
 ## **Circuit Symantec**
 
-![](md_src/circuit.png)
+![](img/md_src/circuit.png)
 
 Each switch is connected to a 3.3-volt power pin and the other pin is connected to a GPIO pin,
 Also contains a led which you can use to show a status or anything you desire.
@@ -44,7 +44,7 @@ Because is contained only 9 switches and it would be useless to reduce the numbe
 
 ## **PCB Symantec**
 
-![](md_src/pcb.png)
+![](img/md_src/pcb.png)
 
 All the details about PCB can be found on the GitHub, just open the PCB folder in KiCad.
 
@@ -54,11 +54,11 @@ PCB can be printed by [JLCPCB](https://cart.jlcpcb.com/) just upload the Gerber 
 ## **3d Renders for PCB and components**
 
 ### **CHERRY MX + KEYCAPS’**
-![](md_src/keycap.png)
+![](img/md_src/keycap.png)
 Stander alphabetical keycap without any legends can be printed using translucent materials or solid material like PLA
 
 ### **CHERRY MX SWITCH**
-![](md_src/switch.png)
+![](img/md_src/switch.png)
 You can use any switch like blue, jade, etc. as
 Long as you have same mounting point shown
 Int the 3D model to be precise 1 pole without led
