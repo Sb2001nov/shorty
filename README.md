@@ -52,17 +52,14 @@ PCB can be printed by [JLCPCB](https://cart.jlcpcb.com/) just upload the Gerber 
 
 
 ## **3d Renders for PCB and components**
+![](img/md_src/keycap.png)
+![](img/md_src/switch.png)
 
 ### **CHERRY MX + KEYCAPS’**
-![](img/md_src/keycap.png)
-Stander alphabetical keycap without any legends can be printed using translucent materials or solid material like PLA
+Stander alphabetical keycap without any legends can be printed using translucent materials or solid material like PLA.
 
 ### **CHERRY MX SWITCH**
-![](img/md_src/switch.png)
-You can use any switch like blue, jade, etc. as
-Long as you have same mounting point shown
-Int the 3D model to be precise 1 pole without led
-Connections, with fixation point.
+You can use any switch like blue, jade, etc. as Long as you have same mounting point shown Int the 3D model to be precise 1 pole without led Connections, with fixation point.
 
 Details can be found [here](https://cdn.sparkfun.com/datasheets/Components/Switches/MX%20Series.pdf)
 
