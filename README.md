@@ -60,7 +60,7 @@ PCB can be printed by [JLCPCB](https://cart.jlcpcb.com/) just upload the Gerber 
 Stander alphabetical keycap without any legends can be printed using translucent materials or solid material like PLA.
 
 ### **CHERRY MX SWITCH**
-You can use any switch like blue, jade, etc. as Long as you have same mounting point shown Int the 3D model to be precise 1 pole without led Connections, with fixation point.
+You can use any switch like blue, jade, etc. as long as you have same mounting point shown in the 3D model to be precise 1 pole without led Connections, with fixation point.
 
 Details can be found [here](https://cdn.sparkfun.com/datasheets/Components/Switches/MX%20Series.pdf)
 
