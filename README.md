@@ -11,24 +11,24 @@
 
 ## **Specifications For Shorty:**
 
-Contain 9 re-programmable key for your macro, keys are laid out in 3x3 matrix.
+Contains 9 re-programmable keys for your macro, keys are laid out in 3x3 matrix.
 
 1. **Switch:** Key switch with fixation pins (1 pole), hot swappable (should contain same mount point as mentioned).
-1. **Keycap’s:** can be 3d printed using given model or can pe purchased online.
+1. **Keycaps:** can be 3d printed using given model or can pe purchased online.
 
 ### **Note:**
-Match keycap size before purchasing, supported keycap are alphabetic caps.
+Match keycap size before purchasing, supported keycaps are alphabetic caps.
 
 1. **Size:** x = 93.47mm, y = 62.99 mm
-1. **Mounting:** can be mounted using 5 2.1mm mounting bits.
-1. **Connection:** micro-B USB.
+1. **Mounting:** Keycap can be mounted using 5 2.1 mm mounting bits.
+1. **Connection:** Micro-B USB.
 
 ## **Programing Specification:**
 
-1. micro-python, supported firmware and installation guide is [here](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3).
-1. circuit-python, supported native and recommend to use.
-1. C/C++, can be uploaded using Arduino ide. (isn’t compatible completely).
-1. QMK firmware.
+1. micro-python - supported firmware and installation guide is [here](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3).
+1. circuit-python - supported native and recommended to use.
+1. C/C++ - can be uploaded using Thonny ide.
+1. QMK firmware - customizable firmware.
 
 ## **Circuit Symantec**
 
