@@ -34,12 +34,12 @@ Match keycap size before purchasing, supported keycaps are alphabetic caps.
 
 ![](img/md_src/circuit.png)
 
-Each switch is connected to a 3.3-volt power pin and the other pin is connected to a GPIO pin,
-Also contains a led which you can use to show a status or anything you desire.
+Each switch is connected to a 3.3-Volt power pin and the other pin is connected to a GPIO pin to receive the data from the switch(input).
+It also contains an LED which you can use to show the status of the key pressed.
 
-Buttons are connected in such a way each button have its own GPIO pin, **why?**
+Buttons are connected in such a way that each button has its own GPIO pin, **why?**
 </br>
-Because is contained only 9 switches and it would be useless to reduce the number of pin use to 6 because it will rise the complexity on the connection and increase number of components use as well increasing the code complexity.
+Because it contains only 9 switches and it would be useless to reduce the number of pin because it will increase the complexity on the connection and increase the number of components used, leading to the code complexity.
 
 *Complete information about RP2040 can be found [here*](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)*
 
