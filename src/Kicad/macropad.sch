@@ -25,38 +25,15 @@ F 3 "" H 4700 3600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6850 4500 6850 4350
-Wire Wire Line
-	6850 4350 5400 4350
-Wire Wire Line
-	5400 4500 5400 4550
-Wire Wire Line
-	6550 4500 5400 4500
-$Comp
-L macropad-rescue:LED-Device D1
-U 1 1 61AF0F2F
-P 6700 4500
-F 0 "D1" H 6700 4600 50  0000 C CNN
-F 1 "LED" H 6700 4700 50  0000 C CNN
-F 2 "LED_THT:LED_D3.0mm" H 6700 4500 50  0001 C CNN
-F 3 "~" H 6700 4500 50  0001 C CNN
-	1    6700 4500
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
 	3700 3050 4000 3050
 Wire Wire Line
 	3700 5050 3700 3050
 Wire Wire Line
 	6250 5050 3700 5050
 Wire Wire Line
-	6250 3600 6250 5050
-Wire Wire Line
 	3750 3150 4000 3150
 Wire Wire Line
 	3750 5000 3750 3150
-Wire Wire Line
-	7050 5000 3750 5000
 Wire Wire Line
 	7050 3600 7050 5000
 Wire Wire Line
@@ -270,4 +247,46 @@ F 3 "" H 5550 3100 60  0000 C CNN
 	1    5550 3100
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	7050 5000 3750 5000
+Wire Wire Line
+	6250 3600 6250 5050
+$Comp
+L Device:LED D?
+U 1 1 61B7A926
+P 6550 4450
+F 0 "D?" H 6543 4195 50  0001 C CNN
+F 1 "LED" H 6543 4287 50  0000 C CNN
+F 2 "" H 6550 4450 50  0001 C CNN
+F 3 "~" H 6550 4450 50  0001 C CNN
+	1    6550 4450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R
+U 1 1 61B78E48
+P 5900 4450
+F 0 "R" V 5693 4450 50  0000 C CNN
+F 1 "220" V 5784 4450 50  0000 C CNN
+F 2 "" V 5830 4450 50  0001 C CNN
+F 3 "~" H 5900 4450 50  0001 C CNN
+	1    5900 4450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6050 4450 6400 4450
+Wire Wire Line
+	6700 4450 6800 4450
+Wire Wire Line
+	5400 4550 5750 4550
+Wire Wire Line
+	5750 4550 5750 4450
+Wire Wire Line
+	6800 4450 6800 4600
+Wire Wire Line
+	6800 4600 5450 4600
+Wire Wire Line
+	5450 4600 5450 4350
+Wire Wire Line
+	5450 4350 5400 4350
 $EndSCHEMATC
