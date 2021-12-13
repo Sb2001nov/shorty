@@ -35,7 +35,7 @@ Match keycap size before purchasing, supported keycaps are alphabetic caps.
 ![](img/md_src/circuit.png)
 
 Each switch is connected to a 3.3-Volt power pin and the other pin is connected to a GPIO pin to receive the data from the switch(input).
-It also contains an LED which you can use to show the status of the key pressed.
+It also contains an LED which you can use to show the status of anything you desire like showing if the voltage is there.
 
 Buttons are connected in such a way that each button has its own GPIO pin, **why?**
 </br>
